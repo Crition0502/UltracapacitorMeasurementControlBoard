@@ -1,0 +1,7 @@
+Read Me:
+# Ultracapacitor Measurement and Control Board v2.0
+1. fix the problem of interference signal transmission caused by wrong wiring in CAN bus differential communication is repaired
+2. The overall device layout of the PCB board is optimized, making it more compact in size. At the same time, 
+the position of some 0603 resistance capacitors is adjusted, making it easier to weld and change the XL1509-ADJ 
+debugging resistance to change the DCDC step-down circuit
+3. The wiring problems of some detection circuits have been repaired, and some errors of signal and voltage measurement have been solved
